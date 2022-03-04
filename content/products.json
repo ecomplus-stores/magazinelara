@@ -27,6 +27,10 @@
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
