@@ -2,5 +2,22 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "### Enviamos para Todo Brasil. \n\nNa finalização de sua compra escolha o frete de entrega. \n\nO prazo será calculado de acordo com o cep de entrega, confira todas as informações de seu endereço para que não haja problema na entrega.\n\nCaso algum dado esteja incompleto , o reenvio do pedido será cobrado a parte. \n\nDúvidas fale conosco pelo whatsapp.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
