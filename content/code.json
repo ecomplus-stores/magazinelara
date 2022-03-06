@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "/*pc*/@media (min-width: 601px){\n}}\n\n /*mobile*/@media (max-width: 600px) {\n}}\n\n  \n /*responsivo*/\n  .share-network-whatsapp{display:none;}\n  .share-network-facebook{display:none;}\n .share-network-twitter{display:none;}\n  .share-network-telegram{display:none;}\n  .share-network-pinterest{display:none;}\n  .share-network-email{display:none;}\n  .share-network-sms {display:none;}\n.search-engine__filter--Brands{ display:none;}\n\n.top-bar{display:none;}}",
   "html_head": "",
   "html_body": ""
 }
