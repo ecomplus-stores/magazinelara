@@ -1,5 +1,5 @@
 {
-  "meta_title": "Magazine Lara | Moda Feminina e Masculina | Compre Online ",
+  "meta_title": "",
   "meta_description": "",
   "sections": [
     {
@@ -28,6 +28,18 @@
           "img": "/img/uploads/slidievestidos.jpg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "info-bar",
