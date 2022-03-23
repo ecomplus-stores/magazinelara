@@ -3,38 +3,19 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/slidefloroes.jpg",
-          "link": "",
-          "alt": "",
-          "start": "2022-03-04T16:43:53.549Z",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/slideveraocarnaval.jpg",
-          "alt": "",
-          "start": "2022-03-04T16:44:10.373Z",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
-          "start": "2022-03-04T16:44:25.421Z",
-          "end": "",
-          "img": "/img/uploads/slidievestidos.jpg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news"
+      "sort": "news",
+      "collection_id": "622437087963422eee30a6b6:categories:Vestidos:/vestidos",
+      "link": "https://www.magazinelara.com.br/vestidos",
+      "title": "Confira os Lançamentos em Vestidos "
+    },
+    {
+      "type": "page-title",
+      "title": "Confira as Novidades da Magazine Lara ",
+      "description": ""
     },
     {
       "type": "dynamic-showcase",
