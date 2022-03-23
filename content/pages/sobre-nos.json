@@ -2,5 +2,22 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<!--StartFragment-->\n\nMaganize Lara, compre online Moda Feminina e Masculina. Com os Melhores Preços e Marcas de Qualidade para você Arrasar no Look. Envio para Todo Brasil.\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
