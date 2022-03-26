@@ -3,6 +3,34 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-03-26T04:57:41.611Z",
+          "end": "",
+          "img": "/img/uploads/magazine-lara-moda-feminina-compre-online.jpg",
+          "mobile_img": "/img/uploads/magazine-lara-moda-feminina-compre-online-mobile.jpg",
+          "link": "https://www.magazinelara.com.br/moda-feminina"
+        },
+        {
+          "start": "2022-03-26T04:58:23.632Z",
+          "end": "",
+          "img": "/img/uploads/calca-jeans-magazine-lara-do-seu-jeito.jpg",
+          "mobile_img": "/img/uploads/calca-jeans-magazine-lara-do-seu-jeito-mobile.jpg",
+          "link": "https://www.magazinelara.com.br/calca-jeans"
+        },
+        {
+          "start": "2022-03-26T05:00:58.282Z",
+          "end": "",
+          "img": "/img/uploads/calcados-femininos-magazine-lara.jpg",
+          "mobile_img": "/img/uploads/calcados-femininos-magazine-lara1.jpg",
+          "link": "https://www.magazinelara.com.br/calcados-femininos"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -11,6 +39,19 @@
       "sort": "news",
       "title": "Conforto para seu Estilo : Veja os Lançamentos em Calçados ",
       "link": "https://www.magazinelara.com.br/calcados-femininos"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/blusinhas-magazine-lara-mobile.jpg",
+          "link": "https://www.magazinelara.com.br/blusas-femininas"
+        },
+        {
+          "img": "/img/uploads/camisetas-cores-magazine-lara1.jpg",
+          "link": "https://www.magazinelara.com.br/fitness"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
