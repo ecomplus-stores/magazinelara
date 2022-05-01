@@ -9,18 +9,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/moda-feminina?Moda Feminina",
-      "/blusas-femininas?Blusas Femininas",
-      "/calcas?Calças",
-      "/calcados-femininos?Calçados Femininos",
-      "/conjuntos?Conjuntos",
-      "/cropped?Cropped",
-      "/fitness?Fitness",
-      "/regatas?Regatas",
-      "/shorts?Shorts",
-      "/t-shirts?T-shirts"
-    ],
+    "featured": [],
     "random": 10,
     "full_width": true
   },
