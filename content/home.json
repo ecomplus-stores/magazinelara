@@ -12,7 +12,15 @@
           "end": "",
           "img": "/img/uploads/todo-site.jpeg",
           "mobile_img": "/img/uploads/mobile.jpeg",
-          "link": "https://www.magazinelara.com.br/especial-dia-das-maes"
+          "link": "https://www.magazinelara.com.br/especial-dia-das-maes",
+          "alt": "Especial Dia das Mães"
+        },
+        {
+          "start": "2022-03-26T05:00:58.282Z",
+          "end": "",
+          "img": "/img/uploads/calcados-femininos-magazine-lara.jpg",
+          "mobile_img": "/img/uploads/calcados-femininos-magazine-lara1.jpg",
+          "link": "https://www.magazinelara.com.br/calcados-femininos"
         },
         {
           "start": "2022-03-26T04:57:41.611Z",
@@ -27,13 +35,6 @@
           "img": "/img/uploads/calca-jeans-magazine-lara-do-seu-jeito.jpg",
           "mobile_img": "/img/uploads/calca-jeans-magazine-lara-do-seu-jeito-mobile.jpg",
           "link": "https://www.magazinelara.com.br/calca-jeans"
-        },
-        {
-          "start": "2022-03-26T05:00:58.282Z",
-          "end": "",
-          "img": "/img/uploads/calcados-femininos-magazine-lara.jpg",
-          "mobile_img": "/img/uploads/calcados-femininos-magazine-lara1.jpg",
-          "link": "https://www.magazinelara.com.br/calcados-femininos"
         }
       ]
     },
