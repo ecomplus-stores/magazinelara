@@ -16,6 +16,15 @@
       "enabled": true
     },
     {
+      "type": "custom-content",
+      "markdown": "## Veja também:"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
       "type": "collection-retail",
       "enabled": true,
       "sort": "sales"
