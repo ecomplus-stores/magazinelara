@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2022-05-02T14:11:54.322Z",
+          "end": "",
+          "img": "/img/uploads/todo-site.jpeg",
+          "mobile_img": "/img/uploads/mobile.jpeg",
+          "link": "https://www.magazinelara.com.br/especial-dia-das-maes"
+        },
+        {
           "start": "2022-03-26T04:57:41.611Z",
           "end": "",
           "img": "/img/uploads/magazine-lara-moda-feminina-compre-online.jpg",
@@ -27,14 +34,17 @@
           "img": "/img/uploads/calcados-femininos-magazine-lara.jpg",
           "mobile_img": "/img/uploads/calcados-femininos-magazine-lara1.jpg",
           "link": "https://www.magazinelara.com.br/calcados-femininos"
-        },
-        {
-          "start": "2022-05-02T14:11:54.322Z",
-          "end": "",
-          "img": "/img/uploads/todo-site.jpeg",
-          "mobile_img": "/img/uploads/mobile.jpeg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "626fce713da6d37bc21991ab:collections:ESPECIAL DIA DAS MÃES:/especial-dia-das-maes",
+      "sort": "news",
+      "link": "https://www.magazinelara.com.br/especial-dia-das-maes"
     },
     {
       "type": "collection-shelf",
