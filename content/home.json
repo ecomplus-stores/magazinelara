@@ -53,7 +53,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6239bcd32e405e04fff14668:categories:Sapatilha:/calcados-femininos-sapatilha",
-      "sort": "news",
+      "sort": "views",
       "title": "As sapatilhas são as queridinhas , para o trabalho, dia a dia, festas e balada. ",
       "link": "https://www.magazinelara.com.br/calcados-femininos-sapatilha"
     },
@@ -63,7 +63,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6239ae562e405e04fff129be:categories:Scarpin:/calcados-femininos-scarpin",
-      "sort": "news",
+      "sort": "lowest_price",
       "title": "Scarpin : Clássicos e Elegantes , vem conferir",
       "link": "https://www.magazinelara.com.br/calcados-femininos-scarpin"
     },
@@ -73,7 +73,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "623cefd92e405e04fff9f4df:categories:Sandálias:/sandalias",
-      "sort": "views",
+      "sort": "news",
       "title": "Confira nossa Seção de Calçados Femininos, leve com você as tendências de 2022 e peças chaves para seu guarda roupa.",
       "link": "https://www.magazinelara.com.br/calcados-femininos"
     },
