@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.cab12d2cb511c4f02968ef3629b5f8ed.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a8a8e4bbbe62c716e3cd859a2f730f9f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ebd41e6928db23c01be38d52eda8f9c1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.05f1733bcaf28089d53da1237cf3d092.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ff3d8278b6b055ff9a8c71fb62655d7d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Magazine Lara - Compre Online | Moda Feminina | Masculina | Envio para Todo Brasil ",
+  "short_name": "Magazine Lara - Compre Online | Moda Feminina | Masculina | Envio para Todo Brasil ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Maganize Lara, compre online Moda Feminina e Masculina. Com os Melhores Preços e Marcas de Qualidade para você Arrasar no Look. Envio para Todo Brasil. ",
+  "background_color": "#ffffff",
+  "theme_color": "#07275a"
+}
